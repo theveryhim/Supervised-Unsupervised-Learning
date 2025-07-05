@@ -6,7 +6,7 @@ In this repo we are going to practice some supervised and unsupervisd learning
   - Naive Bayes
   - SVM
   - KNN
-- perform supervised learning
+- perform unsupervised learning
 - use dimensionality reduction and Manifold Learning 
 <p align="center">
     <img src="1.png" alt="Descriptive Alt Text" height="200">
